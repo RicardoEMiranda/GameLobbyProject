@@ -22,6 +22,7 @@ function App() {
         
         <div className="bottomright">
           <h2 className="consoleHeader">Player 4</h2>
+          <h5>.</h5>
         </div>
 
       </div>
